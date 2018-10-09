@@ -1,8 +1,11 @@
 .Burger {
-  width: 250px;
+  width: 50vh;
   margin: auto;
-  height: 250px;
+  height: 50vh;
   text-align: center;
   font-weight: bold;
   font-size: 1.2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
 }
